@@ -1,0 +1,8 @@
+Ruby/Rails Online API Sources
+1. www.ruby-doc.org
+2. www.ruby-lang.org
+3. www.rubyonrails.org
+4. www.rubydoc.info
+5. www.apidock.com
+
+I prefer www.ruby-lang.org because it is a one-stop online reference relating to Ruby programming. Also, it already includes a link to wwww.ruby-doc.org and www.rubydoc.info which have comprehensive lists of English documentation sources. 
